@@ -1,0 +1,12 @@
+logo_image: /uploads/스크린샷-2023-04-28-오후-7-39-03-작게.jpeg
+background_image: /uploads/cup.jpeg
+navigation_items:
+  - label: About
+    link_url: /about/
+    link_type: Text
+  - label: Services
+    link_url: /services/
+    link_type: Text
+  - label: Contact
+    link_url: /contact/
+    link_type: Text
